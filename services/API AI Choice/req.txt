@@ -1,0 +1,6 @@
+uvicorn
+fastapi-cache2[redis]
+aioredis[standard]
+aiohttp
+numpy
+torch
